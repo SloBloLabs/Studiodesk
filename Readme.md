@@ -1,4 +1,4 @@
-This repository contains all recources and design files needed to build your own Studio Desk.
+This repository contains recources and design files to build your own Studio Desk.
 
 The main features of the desk are:
  * Height adjustable
