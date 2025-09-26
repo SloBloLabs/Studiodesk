@@ -22,6 +22,6 @@ For mounting 19" gear, I am using Adam Hall 3U rack mount kits. Please find the 
 A few 3D parts were also designed and printed:
  * A [Rack Spacer](3Dprint/RackSpacer-Body.stl) to mount the rack mounts at equal depth from the slope edges
  * A [Power Plug Holder](3Dprint/PowerPlugHolder-PowerPlugHolder.stl) to mount the switchable power plug on the left side of the keyboard tray side ![Power Plug Holder](img/PowerPlugHolder.jpeg)
- * A set of plate holders ([PlateHolder Straight](3Dprint/PlateHolder-PlateHolder_Straight.stl), [PlateHolder Angled Left](3Dprint/PlateHolder-PlateHolder_AngledLeft.stl), [PlateHolder Angled Right](3Dprint/PlateHolder-PlateHolder_AngledRight.stl)) to use one of the cut pieces from the main table as cable cable guide through a cetre hole (see picture #2)
+ * A set of plate holders ([PlateHolder Straight](3Dprint/PlateHolder-PlateHolder_Straight.stl), [PlateHolder Angled Left](3Dprint/PlateHolder-PlateHolder_AngledLeft.stl), [PlateHolder Angled Right](3Dprint/PlateHolder-PlateHolder_AngledRight.stl)) to use one of the cut pieces from the main table as cable guide through a centre hole (see picture #2)
 
 I would be pleased to see if someone uses this idea for their own DIY purpose. Have fun with it and send me your pictures! :-)
