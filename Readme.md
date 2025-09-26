@@ -17,7 +17,7 @@ The table is built on a Flexispot E7 Pro height adjustable standing frame which 
 
 The design files are located in the [design](design) folder. Related pdf files in the [pdf](pdf) folder. They do also contain a cut plan.
 
-For mounting 19" gear, I am using Adam Hall 3U rack mount kits. Please find the BOM at [Adam Hall Rack Mount Parts](supplements/AdamHall_3URackMounts.md).
+For mounting 19" gear, I am using Adam Hall 3U rack mount kits. Please find the BOM at [Adam Hall Rack Mount Parts](rackmount/AdamHall_3URackMounts.md).
 
 A few 3D parts were also designed and printed:
  * A [Rack Spacer](3Dprint/RackSpacer-Body.stl) to mount the rack mounts at equal depth from the slope edges
